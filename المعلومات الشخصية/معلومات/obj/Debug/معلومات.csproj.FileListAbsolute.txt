@@ -1,0 +1,47 @@
+C:\Users\User\Desktop\معلومات\معلومات\bin\Debug\معلومات.exe.config
+C:\Users\User\Desktop\معلومات\معلومات\bin\Debug\معلومات.exe
+C:\Users\User\Desktop\معلومات\معلومات\bin\Debug\معلومات.pdb
+C:\Users\User\Desktop\معلومات\معلومات\obj\Debug\معلومات.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\معلومات\معلومات\obj\Debug\معلومات.Form1.resources
+C:\Users\User\Desktop\معلومات\معلومات\obj\Debug\معلومات.Properties.Resources.resources
+C:\Users\User\Desktop\معلومات\معلومات\obj\Debug\معلومات.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\معلومات\معلومات\obj\Debug\معلومات.exe
+C:\Users\User\Desktop\معلومات\معلومات\obj\Debug\معلومات.pdb
+F:\المعلومات الشخصية\معلومات\bin\Debug\معلومات.exe.config
+F:\المعلومات الشخصية\معلومات\obj\Debug\معلومات.exe
+F:\المعلومات الشخصية\معلومات\obj\Debug\معلومات.pdb
+F:\المعلومات الشخصية\معلومات\bin\Debug\معلومات.exe
+F:\المعلومات الشخصية\معلومات\bin\Debug\معلومات.pdb
+F:\المعلومات الشخصية\معلومات\obj\Debug\معلومات.csprojResolveAssemblyReference.cache
+F:\المعلومات الشخصية\معلومات\obj\Debug\معلومات.Form1.resources
+F:\المعلومات الشخصية\معلومات\obj\Debug\معلومات.Properties.Resources.resources
+F:\المعلومات الشخصية\معلومات\obj\Debug\معلومات.csproj.GenerateResource.Cache
+I:\المعلومات الشخصية\معلومات\bin\Debug\معلومات.exe.config
+I:\المعلومات الشخصية\معلومات\obj\Debug\معلومات.exe
+I:\المعلومات الشخصية\معلومات\obj\Debug\معلومات.pdb
+I:\المعلومات الشخصية\معلومات\bin\Debug\معلومات.exe
+I:\المعلومات الشخصية\معلومات\bin\Debug\معلومات.pdb
+I:\المعلومات الشخصية\معلومات\obj\Debug\معلومات.csprojResolveAssemblyReference.cache
+I:\المعلومات الشخصية\معلومات\obj\Debug\معلومات.Form1.resources
+I:\المعلومات الشخصية\معلومات\obj\Debug\معلومات.Properties.Resources.resources
+I:\المعلومات الشخصية\معلومات\obj\Debug\معلومات.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\المعلومات الشخصية\معلومات\bin\Debug\معلومات.exe.config
+C:\Users\User\Desktop\المعلومات الشخصية\معلومات\obj\Debug\معلومات.exe
+C:\Users\User\Desktop\المعلومات الشخصية\معلومات\obj\Debug\معلومات.pdb
+C:\Users\User\Desktop\المعلومات الشخصية\معلومات\bin\Debug\معلومات.exe
+C:\Users\User\Desktop\المعلومات الشخصية\معلومات\bin\Debug\معلومات.pdb
+C:\Users\User\Desktop\المعلومات الشخصية\معلومات\obj\Debug\معلومات.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\المعلومات الشخصية\معلومات\obj\Debug\معلومات.Form1.resources
+C:\Users\User\Desktop\المعلومات الشخصية\معلومات\obj\Debug\معلومات.Properties.Resources.resources
+C:\Users\User\Desktop\المعلومات الشخصية\معلومات\obj\Debug\معلومات.csproj.GenerateResource.Cache
+D:\project in c# visual pisk\المعلومات الشخصية\معلومات\bin\Debug\معلومات.exe.config
+D:\project in c# visual pisk\المعلومات الشخصية\معلومات\obj\Debug\معلومات.exe
+D:\project in c# visual pisk\المعلومات الشخصية\معلومات\obj\Debug\معلومات.pdb
+D:\project in c# visual pisk\المعلومات الشخصية\معلومات\bin\Debug\معلومات.exe
+D:\project in c# visual pisk\المعلومات الشخصية\معلومات\bin\Debug\معلومات.pdb
+D:\project in c# visual pisk\المعلومات الشخصية\معلومات\obj\Debug\معلومات.Form1.resources
+D:\project in c# visual pisk\المعلومات الشخصية\معلومات\obj\Debug\معلومات.Properties.Resources.resources
+D:\project in c# visual pisk\المعلومات الشخصية\معلومات\obj\Debug\معلومات.csproj.GenerateResource.Cache
+D:\project in c# visual pisk\المعلومات الشخصية\معلومات\obj\Debug\معلومات.csproj.AssemblyReference.cache
+D:\project in c# visual pisk\المعلومات الشخصية\معلومات\obj\Debug\معلومات.csproj.SuggestedBindingRedirects.cache
+D:\project in c# visual pisk\المعلومات الشخصية\معلومات\obj\Debug\معلومات.csproj.CoreCompileInputs.cache
